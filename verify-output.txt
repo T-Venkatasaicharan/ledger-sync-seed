@@ -1,0 +1,319 @@
+==> compiling
+
+==> running
+EMAIL FOUND: m-00002-69e4cd | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00006-74ad8c | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00314-a059eb | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/9856586
+EMAIL FOUND: m-00011-a3d757 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00013-ccb139 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00315-800f10 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/4451179
+EMAIL FOUND: m-00024-5d8ad3 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00026-4c75c0 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00034-c39ac5 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00039-27b389 | sender=[alerts@icicibank.com]
+SKIPPED: m-00039-27b389 | Date: Mon, 06 Jul 2026 11:25:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.129.67.
+Merchant / Remarks: RELIANCE SMART
+Transaction reference: 6576810104
+
+This is a system generated email.
+SKIPPED: m-00316-92e134 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/5345344
+EMAIL FOUND: m-00051-f55d43 | sender=[alerts@icicibank.com]
+SKIPPED: m-00051-f55d43 | Date: Wed, 08 Jul 2026 09:03:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with INR 449.67.
+Merchant / Remarks: PVR CINEMAS
+Transaction reference: 3499813605
+
+This is a system generated email.
+SKIPPED: m-00317-6be1e0 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/8723400
+SKIPPED: m-00335-fd8f64 | Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/152459 to avoid debit of Rs.5126.00
+EMAIL FOUND: m-00054-04b1af | sender=[alerts@icicibank.com]
+SKIPPED: m-00054-04b1af | Date: Wed, 08 Jul 2026 18:58:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.99.99.
+Merchant / Remarks: DMART
+Transaction reference: 2275466980
+
+This is a system generated email.
+EMAIL FOUND: m-00057-fcf1cc | sender=[alerts@icicibank.com]
+SKIPPED: m-00057-fcf1cc | Date: Thu, 09 Jul 2026 13:23:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.333.33.
+Merchant / Remarks: INDIAN OIL
+Transaction reference: 5485665467
+
+This is a system generated email.
+EMAIL FOUND: m-00059-c6c4f7 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00062-6474c5 | sender=[alerts@icicibank.com]
+SKIPPED: m-00062-6474c5 | Date: Thu, 09 Jul 2026 18:10:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.1,999.01.
+Merchant / Remarks: SPOTIFY IND
+Transaction reference: 3444140682
+
+This is a system generated email.
+EMAIL FOUND: m-00067-0d0e1b | sender=[alerts@icicibank.com]
+SKIPPED: m-00067-0d0e1b | Date: Fri, 10 Jul 2026 10:15:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.789.01.
+Merchant / Remarks: SPOTIFY IND
+Transaction reference: 8436822913
+
+This is a system generated email.
+SKIPPED: m-00318-86f749 | Avl Bal in a/c **9075 is Rs.50,862.08 as on 11-07-26. Download HDFC Bank MobileBanking app.
+EMAIL FOUND: m-00072-841536 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00086-722844 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00093-119848 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00098-9a109a | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00103-e7a459 | sender=[alerts@icicibank.com]
+SKIPPED: m-00103-e7a459 | Date: Wed, 15 Jul 2026 09:06:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.47.33.
+Merchant / Remarks: SPOTIFY IND
+Transaction reference: 2367095762
+
+This is a system generated email.
+EMAIL FOUND: m-00101-ee1a34 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00319-3e76e0 | Your Swiggy order is on the way! Rahul is 5 mins away.
+EMAIL FOUND: m-00107-fa5045 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00109-d39f05 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00043-4add25 | sender=[alerts@icicibank.com]
+SKIPPED: m-00043-4add25 | Date: Tue, 07 Jul 2026 16:48:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.2,750.
+Merchant / Remarks: APOLLO PHARMACY
+Transaction reference: 7166141125
+
+This is a system generated email.
+SKIPPED: m-00320-59ff37 | 268880 is your OTP for txn of Rs.5160.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+EMAIL FOUND: m-00122-97fe0e | sender=[alerts@icicibank.com]
+SKIPPED: m-00122-97fe0e | Date: Fri, 17 Jul 2026 13:25:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.62.67.
+Merchant / Remarks: MYNTRA
+Transaction reference: 2276776917
+
+This is a system generated email.
+SKIPPED: m-00336-0ff1fc | Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/160593 to avoid debit of Rs.22539.00
+EMAIL FOUND: m-00131-cd229b | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00134-1f0a25 | sender=[alerts@icicibank.com]
+SKIPPED: m-00134-1f0a25 | Date: Sun, 19 Jul 2026 16:19:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.675.67.
+Merchant / Remarks: BLINKIT
+Transaction reference: 6310916798
+
+This is a system generated email.
+SKIPPED: m-00321-9c31f5 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/9214053
+EMAIL FOUND: m-00140-3f640e | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00142-5322a3 | sender=[alerts@icicibank.com]
+SKIPPED: m-00142-5322a3 | Date: Mon, 20 Jul 2026 15:29:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with INR 154.49.
+Merchant / Remarks: RELIANCE SMART
+Transaction reference: 9658103203
+
+This is a system generated email.
+SKIPPED: m-00322-aff402 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/7047803
+EMAIL FOUND: m-00152-50a795 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00154-a052c7 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00323-fd114c | Get a pre-approved Personal Loan of upto Rs.5,00,000 at 10.5% p.a. Click to know more. T&C apply. -ICICI Bank
+SKIPPED: m-00324-b27e28 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/2305902
+EMAIL FOUND: m-00169-0da040 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00174-03ce2e | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00337-52e5fb | Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/889473 to avoid debit of Rs.9846.00
+SKIPPED: m-00325-3ee339 | Get a pre-approved Personal Loan of upto Rs.5,00,000 at 10.5% p.a. Click to know more. T&C apply. -ICICI Bank
+EMAIL FOUND: m-00190-a765df | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00195-e4a1b4 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00201-b5d97c | sender=[alerts@icicibank.com]
+SKIPPED: m-00201-b5d97c | Date: Wed, 29 Jul 2026 09:13:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.2,499.50.
+Merchant / Remarks: UBER INDIA
+Transaction reference: 2218927230
+
+This is a system generated email.
+EMAIL FOUND: m-00206-7ad976 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00326-dd1531 | Avl Bal in a/c **4821 is Rs.27,244.49 as on 30-07-26. Download HDFC Bank MobileBanking app.
+EMAIL FOUND: m-00208-23b40f | sender=[alerts@icicibank.com]
+SKIPPED: m-00208-23b40f | Date: Thu, 30 Jul 2026 13:56:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.76.49.
+Merchant / Remarks: NETFLIX
+Transaction reference: 5309889413
+
+This is a system generated email.
+SKIPPED: m-00327-10d79f | Your Swiggy order is on the way! Rahul is 5 mins away.
+EMAIL FOUND: m-00218-c488f6 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00220-9f6b31 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00222-e9a23b | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00236-6f7c84 | sender=[alerts@icicibank.com]
+SKIPPED: m-00236-6f7c84 | Date: Mon, 03 Aug 2026 08:07:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.1,999.01.
+Merchant / Remarks: INDIAN OIL
+Transaction reference: 3908415756
+
+This is a system generated email.
+SKIPPED: m-00328-540556 | Avl Bal in a/c **9075 is Rs.63,353.46 as on 03-08-26. Download HDFC Bank MobileBanking app.
+EMAIL FOUND: m-00239-97817e | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00243-65a169 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00329-cf664f | 541027 is your OTP for txn of Rs.6214.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+EMAIL FOUND: m-00246-ba634d | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00330-34897c | Avl Bal in a/c **9075 is Rs.63,124.45 as on 05-08-26. Download HDFC Bank MobileBanking app.
+EMAIL FOUND: m-00252-f7c61c | sender=[alerts@icicibank.com]
+SKIPPED: m-00252-f7c61c | Date: Wed, 05 Aug 2026 22:42:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with INR 99.99.
+Merchant / Remarks: BLINKIT
+Transaction reference: 9584497344
+
+This is a system generated email.
+EMAIL FOUND: m-00254-ba70bf | sender=[alerts@icicibank.com]
+SKIPPED: m-00254-ba70bf | Date: Thu, 06 Aug 2026 08:27:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.899.99.
+Merchant / Remarks: INDIAN OIL
+Transaction reference: 1666254219
+
+This is a system generated email.
+EMAIL FOUND: m-00259-3eb6d5 | sender=[alerts@icicibank.com]
+SKIPPED: m-00259-3eb6d5 | Date: Thu, 06 Aug 2026 16:50:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with INR 76.49.
+Merchant / Remarks: DMART
+Transaction reference: 6285773169
+
+This is a system generated email.
+SKIPPED: m-00331-0be670 | Your Swiggy order is on the way! Rahul is 5 mins away.
+EMAIL FOUND: m-00262-d368a7 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00332-87ee5a | Your Swiggy order is on the way! Rahul is 5 mins away.
+EMAIL FOUND: m-00267-e9f6da | sender=[alerts@icicibank.com]
+SKIPPED: m-00267-e9f6da | Date: Fri, 07 Aug 2026 18:40:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.675.67.
+Merchant / Remarks: ZOMATO
+Transaction reference: 2562797895
+
+This is a system generated email.
+SKIPPED: m-00333-cdb1af | 784544 is your OTP for txn of Rs.5850.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+EMAIL FOUND: m-00283-fdf821 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00286-149efa | sender=[alerts@icicibank.com]
+SKIPPED: m-00286-149efa | Date: Mon, 10 Aug 2026 21:30:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.2,499.50.
+Merchant / Remarks: ZOMATO
+Transaction reference: 9703796037
+
+This is a system generated email.
+SKIPPED: m-00334-507599 | 843106 is your OTP for txn of Rs.7806.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+EMAIL FOUND: m-00294-5f893c | sender=[alerts@icicibank.com]
+SKIPPED: m-00294-5f893c | Date: Wed, 12 Aug 2026 08:40:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with INR 99.99.
+Merchant / Remarks: APOLLO PHARMACY
+Transaction reference: 9299633568
+
+This is a system generated email.
+EMAIL FOUND: m-00299-fc93ce | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00304-ea090c | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00307-eb4126 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00311-1253b8 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00346-6073d8 | 268880 is your OTP for txn of Rs.5160.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: m-00349-9e854e | Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/160593 to avoid debit of Rs.22539.00
+SKIPPED: m-00363-46be88 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/9214053
+SKIPPED: m-00372-eb6e8b | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/7047803
+SKIPPED: m-00380-5b296b | Get a pre-approved Personal Loan of upto Rs.5,00,000 at 10.5% p.a. Click to know more. T&C apply. -ICICI Bank
+SKIPPED: m-00391-81a7bd | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/2305902
+SKIPPED: m-00400-754c7a | Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/889473 to avoid debit of Rs.9846.00
+SKIPPED: m-00407-7bb07d | Get a pre-approved Personal Loan of upto Rs.5,00,000 at 10.5% p.a. Click to know more. T&C apply. -ICICI Bank
+SKIPPED: m-00427-41f0d3 | Avl Bal in a/c **4821 is Rs.27,244.49 as on 30-07-26. Download HDFC Bank MobileBanking app.
+SKIPPED: m-00435-f6ea00 | Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: m-00454-738f32 | Avl Bal in a/c **9075 is Rs.63,353.46 as on 03-08-26. Download HDFC Bank MobileBanking app.
+SKIPPED: m-00460-76fae3 | 541027 is your OTP for txn of Rs.6214.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: m-00466-8e183a | Avl Bal in a/c **9075 is Rs.63,124.45 as on 05-08-26. Download HDFC Bank MobileBanking app.
+SKIPPED: m-00474-88713c | Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: m-00480-05059c | Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: m-00487-e01f8a | 784544 is your OTP for txn of Rs.5850.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: m-00503-d7ff80 | 843106 is your OTP for txn of Rs.7806.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+INGEST
+  messages read       522
+  transactions written 257
+  messages skipped    61
+
+BY CATEGORY
+  SPEND        173980.31
+  INCOME       137791.16
+  MICRO          4443.85
+  TRANSFER      36000.00
+
+AGAINST fixtures/corpus-a-totals.json
+  transactions   expected 257, produced 257
+  **4821  txns 146 (expected 146)
+           balance from ledger 48213.67, bank says 41126.34, difference 7087.33
+  **9075  txns 91 (expected 91)
+           balance from ledger 51210.63, bank says 51210.63, difference 0.00
+
+This is the starting point, not the finish line.

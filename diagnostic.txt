@@ -1,0 +1,465 @@
+==> compiling
+
+==> running
+EMAIL FOUND: m-00002-69e4cd | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00006-74ad8c | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00314-a059eb | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/9856586
+EMAIL FOUND: m-00011-a3d757 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00013-ccb139 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00315-800f10 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/4451179
+EMAIL FOUND: m-00024-5d8ad3 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00026-4c75c0 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00034-c39ac5 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00039-27b389 | sender=[alerts@icicibank.com]
+SKIPPED: m-00039-27b389 | Date: Mon, 06 Jul 2026 11:25:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.129.67.
+Merchant / Remarks: RELIANCE SMART
+Transaction reference: 6576810104
+
+This is a system generated email.
+SKIPPED: m-00316-92e134 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/5345344
+EMAIL FOUND: m-00051-f55d43 | sender=[alerts@icicibank.com]
+SKIPPED: m-00051-f55d43 | Date: Wed, 08 Jul 2026 09:03:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with INR 449.67.
+Merchant / Remarks: PVR CINEMAS
+Transaction reference: 3499813605
+
+This is a system generated email.
+SKIPPED: m-00317-6be1e0 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/8723400
+SKIPPED: m-00335-fd8f64 | Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/152459 to avoid debit of Rs.5126.00
+EMAIL FOUND: m-00054-04b1af | sender=[alerts@icicibank.com]
+SKIPPED: m-00054-04b1af | Date: Wed, 08 Jul 2026 18:58:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.99.99.
+Merchant / Remarks: DMART
+Transaction reference: 2275466980
+
+This is a system generated email.
+EMAIL FOUND: m-00057-fcf1cc | sender=[alerts@icicibank.com]
+SKIPPED: m-00057-fcf1cc | Date: Thu, 09 Jul 2026 13:23:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.333.33.
+Merchant / Remarks: INDIAN OIL
+Transaction reference: 5485665467
+
+This is a system generated email.
+EMAIL FOUND: m-00059-c6c4f7 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00062-6474c5 | sender=[alerts@icicibank.com]
+SKIPPED: m-00062-6474c5 | Date: Thu, 09 Jul 2026 18:10:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.1,999.01.
+Merchant / Remarks: SPOTIFY IND
+Transaction reference: 3444140682
+
+This is a system generated email.
+EMAIL FOUND: m-00067-0d0e1b | sender=[alerts@icicibank.com]
+SKIPPED: m-00067-0d0e1b | Date: Fri, 10 Jul 2026 10:15:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.789.01.
+Merchant / Remarks: SPOTIFY IND
+Transaction reference: 8436822913
+
+This is a system generated email.
+SKIPPED: m-00318-86f749 | Avl Bal in a/c **9075 is Rs.50,862.08 as on 11-07-26. Download HDFC Bank MobileBanking app.
+EMAIL FOUND: m-00072-841536 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00086-722844 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00093-119848 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00098-9a109a | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00103-e7a459 | sender=[alerts@icicibank.com]
+SKIPPED: m-00103-e7a459 | Date: Wed, 15 Jul 2026 09:06:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.47.33.
+Merchant / Remarks: SPOTIFY IND
+Transaction reference: 2367095762
+
+This is a system generated email.
+EMAIL FOUND: m-00101-ee1a34 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00319-3e76e0 | Your Swiggy order is on the way! Rahul is 5 mins away.
+EMAIL FOUND: m-00107-fa5045 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00109-d39f05 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00043-4add25 | sender=[alerts@icicibank.com]
+SKIPPED: m-00043-4add25 | Date: Tue, 07 Jul 2026 16:48:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.2,750.
+Merchant / Remarks: APOLLO PHARMACY
+Transaction reference: 7166141125
+
+This is a system generated email.
+SKIPPED: m-00320-59ff37 | 268880 is your OTP for txn of Rs.5160.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+EMAIL FOUND: m-00122-97fe0e | sender=[alerts@icicibank.com]
+SKIPPED: m-00122-97fe0e | Date: Fri, 17 Jul 2026 13:25:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.62.67.
+Merchant / Remarks: MYNTRA
+Transaction reference: 2276776917
+
+This is a system generated email.
+SKIPPED: m-00336-0ff1fc | Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/160593 to avoid debit of Rs.22539.00
+EMAIL FOUND: m-00131-cd229b | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00134-1f0a25 | sender=[alerts@icicibank.com]
+SKIPPED: m-00134-1f0a25 | Date: Sun, 19 Jul 2026 16:19:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.675.67.
+Merchant / Remarks: BLINKIT
+Transaction reference: 6310916798
+
+This is a system generated email.
+SKIPPED: m-00321-9c31f5 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/9214053
+EMAIL FOUND: m-00140-3f640e | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00142-5322a3 | sender=[alerts@icicibank.com]
+SKIPPED: m-00142-5322a3 | Date: Mon, 20 Jul 2026 15:29:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with INR 154.49.
+Merchant / Remarks: RELIANCE SMART
+Transaction reference: 9658103203
+
+This is a system generated email.
+SKIPPED: m-00322-aff402 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/7047803
+EMAIL FOUND: m-00152-50a795 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00154-a052c7 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00323-fd114c | Get a pre-approved Personal Loan of upto Rs.5,00,000 at 10.5% p.a. Click to know more. T&C apply. -ICICI Bank
+SKIPPED: m-00324-b27e28 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/2305902
+EMAIL FOUND: m-00169-0da040 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00174-03ce2e | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00337-52e5fb | Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/889473 to avoid debit of Rs.9846.00
+SKIPPED: m-00325-3ee339 | Get a pre-approved Personal Loan of upto Rs.5,00,000 at 10.5% p.a. Click to know more. T&C apply. -ICICI Bank
+EMAIL FOUND: m-00190-a765df | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00195-e4a1b4 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00201-b5d97c | sender=[alerts@icicibank.com]
+SKIPPED: m-00201-b5d97c | Date: Wed, 29 Jul 2026 09:13:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.2,499.50.
+Merchant / Remarks: UBER INDIA
+Transaction reference: 2218927230
+
+This is a system generated email.
+EMAIL FOUND: m-00206-7ad976 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00326-dd1531 | Avl Bal in a/c **4821 is Rs.27,244.49 as on 30-07-26. Download HDFC Bank MobileBanking app.
+EMAIL FOUND: m-00208-23b40f | sender=[alerts@icicibank.com]
+SKIPPED: m-00208-23b40f | Date: Thu, 30 Jul 2026 13:56:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.76.49.
+Merchant / Remarks: NETFLIX
+Transaction reference: 5309889413
+
+This is a system generated email.
+SKIPPED: m-00327-10d79f | Your Swiggy order is on the way! Rahul is 5 mins away.
+EMAIL FOUND: m-00218-c488f6 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00220-9f6b31 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00222-e9a23b | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00236-6f7c84 | sender=[alerts@icicibank.com]
+SKIPPED: m-00236-6f7c84 | Date: Mon, 03 Aug 2026 08:07:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.1,999.01.
+Merchant / Remarks: INDIAN OIL
+Transaction reference: 3908415756
+
+This is a system generated email.
+SKIPPED: m-00328-540556 | Avl Bal in a/c **9075 is Rs.63,353.46 as on 03-08-26. Download HDFC Bank MobileBanking app.
+EMAIL FOUND: m-00239-97817e | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00243-65a169 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00329-cf664f | 541027 is your OTP for txn of Rs.6214.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+EMAIL FOUND: m-00246-ba634d | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00330-34897c | Avl Bal in a/c **9075 is Rs.63,124.45 as on 05-08-26. Download HDFC Bank MobileBanking app.
+EMAIL FOUND: m-00252-f7c61c | sender=[alerts@icicibank.com]
+SKIPPED: m-00252-f7c61c | Date: Wed, 05 Aug 2026 22:42:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with INR 99.99.
+Merchant / Remarks: BLINKIT
+Transaction reference: 9584497344
+
+This is a system generated email.
+EMAIL FOUND: m-00254-ba70bf | sender=[alerts@icicibank.com]
+SKIPPED: m-00254-ba70bf | Date: Thu, 06 Aug 2026 08:27:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.899.99.
+Merchant / Remarks: INDIAN OIL
+Transaction reference: 1666254219
+
+This is a system generated email.
+EMAIL FOUND: m-00259-3eb6d5 | sender=[alerts@icicibank.com]
+SKIPPED: m-00259-3eb6d5 | Date: Thu, 06 Aug 2026 16:50:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with INR 76.49.
+Merchant / Remarks: DMART
+Transaction reference: 6285773169
+
+This is a system generated email.
+SKIPPED: m-00331-0be670 | Your Swiggy order is on the way! Rahul is 5 mins away.
+EMAIL FOUND: m-00262-d368a7 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00332-87ee5a | Your Swiggy order is on the way! Rahul is 5 mins away.
+EMAIL FOUND: m-00267-e9f6da | sender=[alerts@icicibank.com]
+SKIPPED: m-00267-e9f6da | Date: Fri, 07 Aug 2026 18:40:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.675.67.
+Merchant / Remarks: ZOMATO
+Transaction reference: 2562797895
+
+This is a system generated email.
+SKIPPED: m-00333-cdb1af | 784544 is your OTP for txn of Rs.5850.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+EMAIL FOUND: m-00283-fdf821 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00286-149efa | sender=[alerts@icicibank.com]
+SKIPPED: m-00286-149efa | Date: Mon, 10 Aug 2026 21:30:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with Rs.2,499.50.
+Merchant / Remarks: ZOMATO
+Transaction reference: 9703796037
+
+This is a system generated email.
+SKIPPED: m-00334-507599 | 843106 is your OTP for txn of Rs.7806.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+EMAIL FOUND: m-00294-5f893c | sender=[alerts@icicibank.com]
+SKIPPED: m-00294-5f893c | Date: Wed, 12 Aug 2026 08:40:00 +0530
+Subject: Transaction alert on your account
+
+Dear Customer,
+
+Your account ending 9075 has been debited with INR 99.99.
+Merchant / Remarks: APOLLO PHARMACY
+Transaction reference: 9299633568
+
+This is a system generated email.
+EMAIL FOUND: m-00299-fc93ce | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00304-ea090c | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00307-eb4126 | sender=[alerts@hdfcbank.net]
+EMAIL FOUND: m-00311-1253b8 | sender=[alerts@hdfcbank.net]
+SKIPPED: m-00346-6073d8 | 268880 is your OTP for txn of Rs.5160.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: m-00349-9e854e | Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/160593 to avoid debit of Rs.22539.00
+SKIPPED: m-00363-46be88 | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/9214053
+SKIPPED: m-00372-eb6e8b | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/7047803
+SKIPPED: m-00380-5b296b | Get a pre-approved Personal Loan of upto Rs.5,00,000 at 10.5% p.a. Click to know more. T&C apply. -ICICI Bank
+SKIPPED: m-00391-81a7bd | Your order is out for delivery and will arrive by 7 PM. Track: dlhvry.in/2305902
+SKIPPED: m-00400-754c7a | Dear Customer your ICICI netbanking will be suspended today. Verify PAN immediately at icicibank-secure.co/889473 to avoid debit of Rs.9846.00
+SKIPPED: m-00407-7bb07d | Get a pre-approved Personal Loan of upto Rs.5,00,000 at 10.5% p.a. Click to know more. T&C apply. -ICICI Bank
+SKIPPED: m-00427-41f0d3 | Avl Bal in a/c **4821 is Rs.27,244.49 as on 30-07-26. Download HDFC Bank MobileBanking app.
+SKIPPED: m-00435-f6ea00 | Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: m-00454-738f32 | Avl Bal in a/c **9075 is Rs.63,353.46 as on 03-08-26. Download HDFC Bank MobileBanking app.
+SKIPPED: m-00460-76fae3 | 541027 is your OTP for txn of Rs.6214.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: m-00466-8e183a | Avl Bal in a/c **9075 is Rs.63,124.45 as on 05-08-26. Download HDFC Bank MobileBanking app.
+SKIPPED: m-00474-88713c | Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: m-00480-05059c | Your Swiggy order is on the way! Rahul is 5 mins away.
+SKIPPED: m-00487-e01f8a | 784544 is your OTP for txn of Rs.5850.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+SKIPPED: m-00503-d7ff80 | 843106 is your OTP for txn of Rs.7806.00 on HDFC Bank Card. Valid for 5 min. Do not share with anyone.
+TXN4821 | 2026-07-01T09:02+05:30 | CREDIT | 45000.00 | SALARY CREDIT | INCOME | [m-00001-31eb24, m-00002-69e4cd]
+TXN4821 | 2026-07-01T11:52+05:30 | DEBIT | 99.99 | BIGBASKET | SPEND | [m-00004-f52f55]
+TXN4821 | 2026-07-01T18:57+05:30 | DEBIT | 99.99 | IRCTC | SPEND | [m-00005-94bc92, m-00006-74ad8c]
+TXN4821 | 2026-07-01T19:05+05:30 | DEBIT | 1249.99 | BLINKIT | SPEND | [m-00007-e763ac]
+TXN4821 | 2026-07-01T20:14+05:30 | DEBIT | 75.00 | UPI/BARBER | MICRO | [m-00008-f76713]
+TXN4821 | 2026-07-02T11:04+05:30 | DEBIT | 76.49 | RELIANCE SMART | SPEND | [m-00010-b10d52, m-00011-a3d757]
+TXN4821 | 2026-07-02T11:14+05:30 | DEBIT | 47.33 | SWIGGY | SPEND | [m-00012-862ffa, m-00013-ccb139]
+TXN4821 | 2026-07-02T18:38+05:30 | DEBIT | 80.00 | UPI/KIRANA STORE | MICRO | [m-00014-fcf3df]
+TXN4821 | 2026-07-02T19:42+05:30 | DEBIT | 30.00 | UPI/KIRANA STORE | MICRO | [m-00015-26f3bd]
+TXN4821 | 2026-07-03T08:20+05:30 | DEBIT | 10.00 | UPI/MILK BOOTH | MICRO | [m-00016-841d31]
+TXN4821 | 2026-07-03T10:41+05:30 | DEBIT | 5.00 | UPI/PARKING | MICRO | [m-00017-de933a]
+TXN4821 | 2026-07-03T19:48+05:30 | CREDIT | 780.49 | UPI/P2P/REFUND | INCOME | [m-00019-c890cd]
+TXN4821 | 2026-07-04T11:54+05:30 | DEBIT | 5.00 | UPI/WATER CAN | MICRO | [m-00022-2f118b]
+TXN4821 | 2026-07-04T12:24+05:30 | DEBIT | 154.49 | RELIANCE SMART | SPEND | [m-00023-8ee993, m-00024-5d8ad3]
+TXN4821 | 2026-07-04T13:56+05:30 | DEBIT | 2499.50 | SWIGGY | SPEND | [m-00025-aa9fa5, m-00026-4c75c0]
+TXN4821 | 2026-07-04T14:48+05:30 | DEBIT | 218.51 | MYNTRA | SPEND | [m-00027-6b33f4]
+TXN4821 | 2026-07-05T09:06+05:30 | DEBIT | 35.00 | UPI/TEA STALL | MICRO | [m-00029-19d141]
+TXN4821 | 2026-07-05T10:14+05:30 | DEBIT | 1234.56 | BIGBASKET | SPEND | [m-00030-a6749e]
+TXN4821 | 2026-07-05T11:00+05:30 | DEBIT | 8000.00 | IMPS/P2A/PARAG KAPOOR | SPEND | [m-00031-a27b22]
+TXN4821 | 2026-07-05T11:03+05:30 | DEBIT | 89.01 | PVR CINEMAS | SPEND | [m-00033-b62d07, m-00034-c39ac5]
+TXN4821 | 2026-07-05T19:40+05:30 | DEBIT | 129.67 | SWIGGY | SPEND | [m-00036-63dbe6]
+TXN4821 | 2026-07-06T09:09+05:30 | DEBIT | 62.67 | SPOTIFY IND | SPEND | [m-00037-86b2ed]
+TXN4821 | 2026-07-06T20:36+05:30 | DEBIT | 20.00 | UPI/WATER CAN | MICRO | [m-00040-082803]
+TXN4821 | 2026-07-07T11:31+05:30 | DEBIT | 66.67 | UPI/PARKING | MICRO | [m-00041-fef500]
+TXN4821 | 2026-07-07T18:08+05:30 | DEBIT | 60.00 | UPI/VEGETABLE VENDOR | MICRO | [m-00045-08790e]
+TXN4821 | 2026-07-07T20:13+05:30 | DEBIT | 789.01 | PVR CINEMAS | SPEND | [m-00046-09bb13]
+TXN4821 | 2026-07-07T22:25+05:30 | DEBIT | 30.00 | UPI/TEA STALL | MICRO | [m-00047-c41e3b]
+TXN4821 | 2026-07-08T16:35+05:30 | DEBIT | 154.49 | APOLLO PHARMACY | SPEND | [m-00052-e9ebd7]
+TXN4821 | 2026-07-09T12:17+05:30 | DEBIT | 99.00 | UPI/TEA STALL | MICRO | [m-00055-3d7387]
+TXN4821 | 2026-07-09T15:07+05:30 | DEBIT | 2499.50 | BIGBASKET | SPEND | [m-00058-fec9fe, m-00059-c6c4f7]
+TXN4821 | 2026-07-09T17:02+05:30 | DEBIT | 40.00 | UPI/KIRANA STORE | MICRO | [m-00060-6ff3e6]
+TXN4821 | 2026-07-09T19:15+05:30 | DEBIT | 10.00 | UPI/AUTO RICKSHAW | MICRO | [m-00063-262d17]
+TXN4821 | 2026-07-10T07:57+05:30 | DEBIT | 60.00 | UPI/MILK BOOTH | MICRO | [m-00064-a80151]
+TXN4821 | 2026-07-10T08:36+05:30 | DEBIT | 62.67 | PVR CINEMAS | SPEND | [m-00065-500df5]
+TXN4821 | 2026-07-10T10:47+05:30 | DEBIT | 22.50 | UPI/AUTO RICKSHAW | MICRO | [m-00068-3783d2]
+TXN4821 | 2026-07-10T13:41+05:30 | DEBIT | 249.00 | BLINKIT | SPEND | [m-00069-988247]
+TXN4821 | 2026-07-10T13:44+05:30 | DEBIT | 249.00 | BLINKIT | SPEND | [m-00070-dadad1]
+TXN4821 | 2026-07-11T14:24+05:30 | DEBIT | 62.67 | RELIANCE SMART | SPEND | [m-00071-262079, m-00072-841536]
+TXN4821 | 2026-07-11T16:21+05:30 | CREDIT | 1899.67 | SALARY CREDIT | INCOME | [m-00074-db5381]
+TXN4821 | 2026-07-11T22:45+05:30 | DEBIT | 1234.56 | IRCTC | SPEND | [m-00077-e8d1c6]
+TXN4821 | 2026-07-12T19:22+05:30 | DEBIT | 22.50 | UPI/WATER CAN | MICRO | [m-00084-bcc805]
+TXN4821 | 2026-07-13T08:42+05:30 | DEBIT | 99.99 | NETFLIX | SPEND | [m-00085-c65225, m-00086-722844]
+TXN4821 | 2026-07-13T20:11+05:30 | DEBIT | 333.33 | APOLLO PHARMACY | SPEND | [m-00088-ec1a6f]
+TXN4821 | 2026-07-14T08:18+05:30 | DEBIT | 1249.99 | INDIAN OIL | SPEND | [m-00089-73b377]
+TXN4821 | 2026-07-14T12:09+05:30 | CREDIT | 2500.00 | IMPS/P2A/PARAG KAPOOR | INCOME | [m-00091-f9582e]
+TXN4821 | 2026-07-14T14:28+05:30 | DEBIT | 449.67 | AMAZON PAY | SPEND | [m-00092-61f6ca, m-00093-119848]
+TXN4821 | 2026-07-14T17:24+05:30 | DEBIT | 99.00 | UPI/VEGETABLE VENDOR | MICRO | [m-00095-682675]
+TXN4821 | 2026-07-14T17:56+05:30 | DEBIT | 18.00 | UPI/PAN SHOP | MICRO | [m-00096-bfde09]
+TXN4821 | 2026-07-14T19:13+05:30 | DEBIT | 1249.99 | INDIAN OIL | SPEND | [m-00097-4ee57b, m-00098-9a109a]
+TXN4821 | 2026-07-14T20:37+05:30 | DEBIT | 47.33 | NETFLIX | SPEND | [m-00099-2322bc]
+TXN4821 | 2026-07-15T08:28+05:30 | DEBIT | 76.49 | PVR CINEMAS | SPEND | [m-00100-d20980, m-00101-ee1a34]
+TXN4821 | 2026-07-15T13:09+05:30 | DEBIT | 25.00 | UPI/AUTO RICKSHAW | MICRO | [m-00104-599c0e]
+TXN4821 | 2026-07-15T14:06+05:30 | DEBIT | 35.00 | UPI/STATIONERY | MICRO | [m-00105-755a67]
+TXN4821 | 2026-07-15T14:56+05:30 | DEBIT | 1234.56 | NETFLIX | SPEND | [m-00106-c4d930, m-00107-fa5045]
+TXN4821 | 2026-07-15T15:27+05:30 | DEBIT | 675.67 | NETFLIX | SPEND | [m-00108-c87d1a, m-00109-d39f05]
+TXN4821 | 2026-07-15T20:05+05:30 | DEBIT | 3000.00 | ATM WDL NOIDA | SPEND | [m-00111-27721e]
+TXN4821 | 2026-07-16T11:30+05:30 | CREDIT | 3000.00 | REVERSAL ATM WDL NOIDA | INCOME | [m-00114-2b43fd, m-00339-94d1f5]
+TXN4821 | 2026-07-16T14:09+05:30 | DEBIT | 90.00 | UPI/PAN SHOP | MICRO | [m-00116-835018, m-00341-8c58fb]
+TXN4821 | 2026-07-16T17:20+05:30 | DEBIT | 5.00 | UPI/XEROX | MICRO | [m-00118-d8620a, m-00343-034685]
+TXN4821 | 2026-07-17T13:37+05:30 | DEBIT | 1234.56 | INDIAN OIL | SPEND | [m-00123-d51d15, m-00348-8bed1d]
+TXN4821 | 2026-07-18T09:19+05:30 | DEBIT | 99.99 | INDIAN OIL | SPEND | [m-00126-6066f2, m-00352-d37ecb]
+TXN4821 | 2026-07-18T11:06+05:30 | DEBIT | 90.00 | UPI/BARBER | MICRO | [m-00127-583e1c, m-00353-11206d]
+TXN4821 | 2026-07-18T12:13+05:30 | DEBIT | 40.00 | UPI/CHAIWALA | MICRO | [m-00128-12f624, m-00354-a62083]
+TXN4821 | 2026-07-19T00:20+05:30 | DEBIT | 412.67 | UBER INDIA | SPEND | [m-00130-a9be28, m-00356-c637ab]
+TXN4821 | 2026-07-18T18:50Z | DEBIT | 412.67 | UBER INDIA | SPEND | [m-00131-cd229b]
+TXN4821 | 2026-07-19T14:08+05:30 | DEBIT | 15.00 | UPI/XEROX | MICRO | [m-00132-e41e9d, m-00357-aacf87]
+TXN4821 | 2026-07-19T22:36+05:30 | CREDIT | 780.49 | NEFT INWARD | INCOME | [m-00136-471273, m-00360-82e4f0]
+TXN4821 | 2026-07-20T10:47+05:30 | DEBIT | 62.67 | APOLLO PHARMACY | SPEND | [m-00139-07821e, m-00140-3f640e, m-00364-43c3f0]
+TXN4821 | 2026-07-21T09:02+05:30 | DEBIT | 30.00 | UPI/AUTO RICKSHAW | MICRO | [m-00145-3e90cf, m-00368-bf2f35]
+TXN4821 | 2026-07-21T13:14+05:30 | DEBIT | 12000.00 | IMPS/P2A/PARAG KAPOOR | SPEND | [m-00146-49bd2f, m-00369-386a1d]
+TXN4821 | 2026-07-21T18:40+05:30 | DEBIT | 12000.00 | IMPS/P2A/RAHUL SHARMA | SPEND | [m-00150-9a350d, m-00374-51916a]
+TXN4821 | 2026-07-21T20:32+05:30 | DEBIT | 47.33 | DMART | SPEND | [m-00151-a1767b, m-00152-50a795, m-00375-409998]
+TXN4821 | 2026-07-22T06:15+05:30 | DEBIT | 649.00 | NETFLIX ENTERTAINMENT | SPEND | [m-00153-5f75ad, m-00154-a052c7, m-00376-2d5be1]
+TXN4821 | 2026-07-22T12:18+05:30 | DEBIT | 675.67 | MYNTRA | SPEND | [m-00156-e70c47, m-00378-121c5a]
+TXN4821 | 2026-07-22T16:30+05:30 | CREDIT | 212.67 | CASHBACK | INCOME | [m-00158-62fb8f, m-00381-540a7f]
+TXN4821 | 2026-07-22T19:55+05:30 | DEBIT | 50.00 | UPI/KIRANA STORE | MICRO | [m-00159-37e056, m-00382-cd9eb5]
+TXN4821 | 2026-07-23T22:16+05:30 | DEBIT | 675.67 | IRCTC | SPEND | [m-00164-69c4f2, m-00387-4d18ce]
+TXN4821 | 2026-07-24T09:15+05:30 | DEBIT | 1249.99 | MYNTRA | SPEND | [m-00165-7ffb23, m-00388-463d51]
+TXN4821 | 2026-07-24T12:54+05:30 | DEBIT | 100.00 | UPI/PARKING | MICRO | [m-00167-90f2fc, m-00390-d9bfd0]
+TXN4821 | 2026-07-24T13:31+05:30 | DEBIT | 2499.50 | IRCTC | SPEND | [m-00168-ea08f5, m-00169-0da040, m-00392-3f82f9]
+TXN4821 | 2026-07-24T14:34+05:30 | DEBIT | 789.01 | UBER INDIA | SPEND | [m-00170-932fcb, m-00393-9886a3]
+TXN4821 | 2026-07-24T15:24+05:30 | DEBIT | 449.67 | RELIANCE SMART | SPEND | [m-00171-3c58e2, m-00394-871540]
+TXN4821 | 2026-07-25T12:44+05:30 | CREDIT | 1250.33 | UPI/P2P/REFUND | INCOME | [m-00173-7756a2, m-00174-03ce2e, m-00396-17420b]
+TXN4821 | 2026-07-25T13:02+05:30 | DEBIT | 2499.50 | DMART | SPEND | [m-00175-48a7f2, m-00397-6bf2b1]
+TXN4821 | 2026-07-26T07:29+05:30 | DEBIT | 40.00 | UPI/XEROX | MICRO | [m-00179-aece64, m-00402-f080c2]
+TXN4821 | 2026-07-26T09:47+05:30 | DEBIT | 99.00 | UPI/VEGETABLE VENDOR | MICRO | [m-00180-019ca4, m-00403-785e73]
+TXN4821 | 2026-07-26T14:23+05:30 | DEBIT | 89.01 | BLINKIT | SPEND | [m-00183-879dbe, m-00406-96fe96]
+TXN4821 | 2026-07-26T22:54+05:30 | CREDIT | 780.49 | NEFT INWARD | INCOME | [m-00184-500a00, m-00408-276aa1]
+TXN4821 | 2026-07-27T12:09+05:30 | DEBIT | 5.00 | UPI/BARBER | MICRO | [m-00186-1296c5, m-00410-5ccc23]
+TXN4821 | 2026-07-27T15:30+05:30 | DEBIT | 90.00 | UPI/VEGETABLE VENDOR | MICRO | [m-00188-335d61, m-00412-69e617]
+TXN4821 | 2026-07-27T18:30+05:30 | DEBIT | 899.99 | RELIANCE SMART | SPEND | [m-00189-a1204c, m-00190-a765df, m-00413-a91d73]
+TXN4821 | 2026-07-27T22:16+05:30 | DEBIT | 100.00 | UPI/WATER CAN | MICRO | [m-00192-ae5b69, m-00415-552db5]
+TXN4821 | 2026-07-28T11:54+05:30 | DEBIT | 899.99 | APOLLO PHARMACY | SPEND | [m-00194-96db0e, m-00195-e4a1b4, m-00417-7de4a8]
+TXN4821 | 2026-07-28T22:55+05:30 | DEBIT | 45.50 | UPI/CHAIWALA | MICRO | [m-00198-1dc293, m-00420-46da34]
+TXN4821 | 2026-07-29T09:20+05:30 | DEBIT | 899.99 | ZOMATO | SPEND | [m-00202-f9b68a, m-00423-88476c]
+TXN4821 | 2026-07-29T11:53+05:30 | DEBIT | 899.99 | IRCTC | SPEND | [m-00203-bbc8db, m-00424-00e37c]
+TXN4821 | 2026-07-29T17:06+05:30 | DEBIT | 75.00 | UPI/STATIONERY | MICRO | [m-00204-4741e7, m-00425-9dea9d]
+TXN4821 | 2026-07-29T21:22+05:30 | DEBIT | 1234.56 | UBER INDIA | SPEND | [m-00205-392448, m-00206-7ad976, m-00426-64df47]
+TXN4821 | 2026-07-30T20:11+05:30 | DEBIT | 154.49 | SPOTIFY IND | SPEND | [m-00211-7904eb, m-00431-acb904]
+TXN4821 | 2026-07-30T21:06+05:30 | DEBIT | 5555.55 | UBER INDIA | SPEND | [m-00212-269f2d, m-00432-c3f3be]
+TXN4821 | 2026-07-31T14:13+05:30 | DEBIT | 30.00 | UPI/STATIONERY | MICRO | [m-00215-74a3d3, m-00436-94ac66]
+TXN4821 | 2026-07-31T14:47+05:30 | DEBIT | 675.67 | IRCTC | SPEND | [m-00216-590952, m-00437-c4bd47]
+TXN4821 | 2026-07-31T20:27+05:30 | DEBIT | 99.99 | IRCTC | SPEND | [m-00217-471b15, m-00218-c488f6, m-00438-a54c58]
+TXN4821 | 2026-07-31T22:36+05:30 | DEBIT | 5555.55 | RELIANCE SMART | SPEND | [m-00219-af192b, m-00220-9f6b31, m-00439-a9ec3b]
+TXN4821 | 2026-08-01T09:02+05:30 | CREDIT | 45000.00 | SALARY CREDIT | INCOME | [m-00221-0eea39, m-00222-e9a23b, m-00440-99d19c]
+TXN4821 | 2026-08-01T12:55+05:30 | DEBIT | 154.49 | MYNTRA | SPEND | [m-00223-202b74, m-00441-3d0992]
+TXN4821 | 2026-08-01T14:06+05:30 | DEBIT | 1249.99 | RELIANCE SMART | SPEND | [m-00224-ae83c2, m-00442-55f4bf]
+TXN4821 | 2026-08-01T14:21+05:30 | DEBIT | 5000.00 | IMPS/P2A/PARAG KAPOOR | SPEND | [m-00225-e25f0c, m-00443-f3f882]
+TXN4821 | 2026-08-01T20:06+05:30 | DEBIT | 20.00 | UPI/CHAIWALA | MICRO | [m-00228-b8a253, m-00446-561fb0]
+TXN4821 | 2026-08-02T08:11+05:30 | CREDIT | 1899.67 | SALARY CREDIT | INCOME | [m-00231-433371, m-00449-dff9e0]
+TXN4821 | 2026-08-02T13:42+05:30 | DEBIT | 25.00 | UPI/BARBER | MICRO | [m-00232-697703, m-00450-7733bc]
+TXN4821 | 2026-08-02T13:46+05:30 | DEBIT | 99.99 | SWIGGY | SPEND | [m-00233-e16b71, m-00451-9cf246]
+TXN4821 | 2026-08-02T13:55+05:30 | CREDIT | 212.67 | CASHBACK | INCOME | [m-00234-87c80a, m-00452-253664]
+TXN4821 | 2026-08-03T16:43+05:30 | DEBIT | 10.00 | UPI/PAN SHOP | MICRO | [m-00237-2c5c87, m-00455-d1ab2e]
+TXN4821 | 2026-08-03T19:56+05:30 | DEBIT | 1111.11 | APOLLO PHARMACY | SPEND | [m-00238-ec774b, m-00239-97817e, m-00456-59b48e]
+TXN4821 | 2026-08-04T17:26+05:30 | DEBIT | 2499.50 | AMAZON PAY | SPEND | [m-00242-dded32, m-00243-65a169, m-00459-725ffe]
+TXN4821 | 2026-08-04T19:50+05:30 | DEBIT | 30.00 | UPI/MILK BOOTH | MICRO | [m-00244-c098a2, m-00461-2a8d27]
+TXN4821 | 2026-08-04T22:36+05:30 | DEBIT | 333.33 | INDIAN OIL | SPEND | [m-00245-37f8ae, m-00246-ba634d, m-00462-916e97]
+TXN4821 | 2026-08-05T17:12+05:30 | DEBIT | 89.01 | SPOTIFY IND | SPEND | [m-00250-e2215b, m-00467-17bacf]
+TXN4821 | 2026-08-06T16:18+05:30 | DEBIT | 22.50 | UPI/PARKING | MICRO | [m-00256-cb93ba, m-00471-a23244]
+TXN4821 | 2026-08-06T16:37+05:30 | DEBIT | 12.50 | UPI/CHAIWALA | MICRO | [m-00257-292773, m-00472-067a84]
+TXN4821 | 2026-08-07T09:04+05:30 | DEBIT | 99.99 | INDIAN OIL | SPEND | [m-00261-3040d0, m-00262-d368a7, m-00476-f3c3a9]
+TXN4821 | 2026-08-07T15:30+05:30 | CREDIT | 3500.00 | IMPS/P2A/PARAG KAPOOR | INCOME | [m-00265-2f0284, m-00479-056aba]
+TXN4821 | 2026-08-07T20:26+05:30 | DEBIT | 3333.33 | DMART | SPEND | [m-00269-fb6fed, m-00483-c4b122]
+TXN4821 | 2026-08-07T22:45+05:30 | CREDIT | 212.67 | UPI/P2P/REFUND | INCOME | [m-00270-4df13b, m-00484-67d31c]
+TXN4821 | 2026-08-08T13:05+05:30 | DEBIT | 675.67 | AMAZON PAY | SPEND | [m-00271-9d66ba, m-00485-db2c38]
+TXN4821 | 2026-08-08T15:05+05:30 | DEBIT | 2499.50 | RELIANCE SMART | SPEND | [m-00272-f44910, m-00486-82a47d]
+TXN4821 | 2026-08-08T20:17+05:30 | DEBIT | 2499.50 | SWIGGY | SPEND | [m-00274-83b6af, m-00489-180be1]
+TXN4821 | 2026-08-08T21:19+05:30 | DEBIT | 1234.56 | AMAZON PAY | SPEND | [m-00275-64f3a4, m-00490-1f80e9]
+TXN4821 | 2026-08-09T21:59+05:30 | DEBIT | 25.00 | UPI/BARBER | MICRO | [m-00280-9c6ff7, m-00495-750abd]
+TXN4821 | 2026-08-10T12:30+05:30 | DEBIT | 1249.99 | UBER INDIA | SPEND | [m-00282-348149, m-00283-fdf821, m-00497-f65999]
+TXN4821 | 2026-08-10T19:24+05:30 | DEBIT | 100.00 | UPI/VEGETABLE VENDOR | MICRO | [m-00284-3096ef, m-00498-d2dc1e]
+TXN4821 | 2026-08-11T09:09+05:30 | DEBIT | 15.00 | UPI/WATER CAN | MICRO | [m-00288-ffbe52, m-00501-f9cfdc]
+TXN4821 | 2026-08-11T10:00+05:30 | DEBIT | 66.67 | UPI/CHAIWALA | MICRO | [m-00289-3977b2, m-00502-d9ec9f]
+TXN4821 | 2026-08-11T13:23+05:30 | CREDIT | 212.67 | SALARY CREDIT | INCOME | [m-00290-c078bd, m-00504-e1f4db]
+TXN4821 | 2026-08-11T15:46+05:30 | DEBIT | 899.99 | BLINKIT | SPEND | [m-00291-c52a21, m-00505-6d94c3]
+TXN4821 | 2026-08-11T22:42+05:30 | DEBIT | 18.00 | UPI/PARKING | MICRO | [m-00292-7a700d, m-00506-d4592b]
+TXN4821 | 2026-08-12T13:33+05:30 | DEBIT | 99.00 | UPI/XEROX | MICRO | [m-00296-b047ca, m-00509-601ad6]
+TXN4821 | 2026-08-12T17:44+05:30 | DEBIT | 218.51 | MYNTRA | SPEND | [m-00298-88a7c7, m-00299-fc93ce, m-00511-cb056c]
+TXN4821 | 2026-08-13T13:10+05:30 | DEBIT | 89.01 | AMAZON PAY | SPEND | [m-00303-d3e0ac, m-00304-ea090c, m-00515-d1568e]
+TXN4821 | 2026-08-13T14:18+05:30 | DEBIT | 75.00 | UPI/MILK BOOTH | MICRO | [m-00305-bba14c, m-00516-a7ba91]
+TXN4821 | 2026-08-13T17:16+05:30 | DEBIT | 129.67 | AMAZON PAY | SPEND | [m-00306-e93400, m-00307-eb4126, m-00517-e677be]
+TXN4821 | 2026-08-14T09:05+05:30 | DEBIT | 66.67 | UPI/PAN SHOP | MICRO | [m-00309-e7dfdd, m-00519-1fe291]
+TXN4821 | 2026-08-14T17:08+05:30 | DEBIT | 1111.11 | NETFLIX | SPEND | [m-00310-05fc0b, m-00311-1253b8, m-00520-de726d]
+TXN4821 | 2026-08-14T18:35+05:30 | CREDIT | 99.01 | NEFT INWARD | INCOME | [m-00312-1dc1c1, m-00521-12e8cd]
+TXN4821 | 2026-08-14T20:10+05:30 | DEBIT | 20.00 | UPI/WATER CAN | MICRO | [m-00313-ddc246, m-00522-aeb546]
+INGEST
+  messages read       522
+  transactions written 257
+  messages skipped    61
+
+BY CATEGORY
+  SPEND        173980.31
+  INCOME       137791.16
+  MICRO          4443.85
+  TRANSFER      36000.00
+
+AGAINST fixtures/corpus-a-totals.json
+  transactions   expected 257, produced 257
+  **4821  txns 146 (expected 146)
+           balance from ledger 48213.67, bank says 41126.34, difference 7087.33
+  **9075  txns 91 (expected 91)
+           balance from ledger 51210.63, bank says 51210.63, difference 0.00
+
+This is the starting point, not the finish line.
